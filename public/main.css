@@ -1,0 +1,11 @@
+.citation {
+  font-size: 50%;
+
+  position:  relative;
+  top:       -0.5em;
+
+  color: #800000;
+
+  content: '[citation needed]';
+}
+
